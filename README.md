@@ -1,13 +1,12 @@
 ### Hi I'm Viviane 👋
 
-<a href=”https://www.linkedin.com/in/leviviane/"><img align=”left” src=”https://raw.githubusercontent.com/leviviane/leviviane/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
-
-
+<a href=”https://www.linkedin.com/in/leviviane/"><img align=”left” src=”https://raw.githubusercontent.com/leviviane/leviviane/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a> [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time foodie who loves to travel. I am currently finishing up a 24-weeks coding bootcamp with App Academy.
 Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
 
 ⚡ Fun fact: I can speak 3 languages - English, Korean, and Vietnamese
+🚀 Making an Impact: I have always loved helping others and problem-solving. My goal is leverage my problem-solving and customer service skills alongside my engineering knowledage to help make a positive impact in any organizations and those around me.
 
 <!--
 **leviviane/leviviane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
