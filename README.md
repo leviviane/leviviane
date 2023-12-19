@@ -1,5 +1,5 @@
 ### Hi I'm Viviane 👋
-Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time fooedie. I am currently finishing up a 24-weeks coding bootcamp with App Academy.
+Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time foodie who loves to travel. I am currently finishing up a 24-weeks coding bootcamp with App Academy. Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
 
 <!--
 **leviviane/leviviane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
