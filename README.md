@@ -4,7 +4,10 @@
 
 
 
-Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time foodie who loves to travel. I am currently finishing up a 24-weeks coding bootcamp with App Academy. Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
+Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time foodie who loves to travel. I am currently finishing up a 24-weeks coding bootcamp with App Academy. 
+Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
+
+⚡ Fun fact: I can speak 3 languages - English, Korean, and Vietnamese
 
 <!--
 **leviviane/leviviane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
