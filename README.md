@@ -1,8 +1,4 @@
 ### Hi I'm Viviane 👋
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/leviviane/"
 
 Welcome to my profile! I'm a Recruiter turned Software Engineer and a full-time foodie who loves to travel. I am currently finishing up a 24-weeks coding bootcamp with App Academy. Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
 
