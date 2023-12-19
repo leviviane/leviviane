@@ -1,6 +1,6 @@
 ### Hi I'm Viviane 👋
 
-<a href=”https://www.linkedin.com/in/leviviane/"><img align=”left” src=”https://raw.githubusercontent.com/leviviane/leviviane/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+<!-- <a href=”https://www.linkedin.com/in/leviviane/"><img align=”left” src=”https://raw.githubusercontent.com/leviviane/leviviane/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a> -->
 
 
 
