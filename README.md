@@ -7,8 +7,6 @@ Thanks for visiting and let's [connect](https://www.linkedin.com/in/leviviane/)!
 
 ⚡ Fun fact: I can speak 3 languages - English, Korean, and Vietnamese
 
-🚀 Making an Impact: I have always loved helping others and problem-solving. My goal is leverage my problem-solving and customer service skills alongside my engineering knowledage to help make a positive impact in any organizations and those around me.
-
 <!--
 **leviviane/leviviane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🚀 Making an Impact: I have always loved helping others and problem-solving. My goal is leverage my problem-solving and customer service skills alongside my engineering knowledage to help make a positive impact in any organizations and those around me.
 -->
