@@ -1,6 +1,6 @@
 ### Hi I'm Viviane 👋
 
-Welcome to my profile! I'm a Recruiter turned Software Engineer. It has been a lifelong passion of mine to help others and find ways to solve problems (you can call me a problem-solving enthusiast!) I recently decided to make a career change where I dove into the world of coding.
+Welcome to my GitHub! I'm a Recruiter turned Software Engineer. It has been a lifelong passion of mine to help others and find ways to solve problems (you can call me a problem-solving enthusiast!) I recently decided to make a career change where I dove into the world of coding.
 
 My journey with software engineering started with a fascination as I was doing technical recruiting and was intrigued by the problems my peers were solving. I decided to take a few courses on data and Javascript and instantly fell in love. I finally took a leap of faith and signed up for an intensive 24-weeks coding bootcamp with App Academy.
 
